@@ -1,6 +1,6 @@
 🚀 **Built a Real-Time Multi-Agent AI System with Python & Chainlit!**
 
-Proud to share that I’ve successfully developed an interactive Multi-Agent AI System using hashtag#Python and hashtag#Chainlit!
+Proud to share that I’ve successfully developed an interactive Multi-Agent AI System using **Python and Chainlit!**
 
 💡 Designed a smart Manager Agent that intelligently routes user queries to the right expert agents using efficient handoff logic.
 
